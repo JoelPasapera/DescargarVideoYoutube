@@ -1,8 +1,12 @@
 # DescargarVideoYoutube
 🇪🇸 Descarga videos de youtube copiando y pegando este codigo javascript en la consola del navegador!
+
 🇺🇸 Download YouTube videos by copying and pasting this JavaScript code into your browser's console!
+
 🇵🇹 Descarrega vídeos do YouTube copiando e colando este código JavaScript na consola do navegador!
+
 🇷🇺 Скачивайте видео с YouTube, скопировав и вставив этот код JavaScript в консоль браузера!
+
 🇨🇳 將這段 JavaScript 程式碼複製並貼上至瀏覽器控制台，即可下載 YouTube 影片！
 
 # youtube-download
